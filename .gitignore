@@ -1,0 +1,8 @@
+# Logs
+*.log
+
+errorShots
+./errorShots
+coverage
+.idea/
+node_modules/
